@@ -7,8 +7,6 @@ Technology ❤️ <br>
 Systems Developer👨🏻‍💻<br>
 Focus: honing my skills, simplifying and solving problems <br>
 
-⚡HTML, CSS, JavaScript, MySQL
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
