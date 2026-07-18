@@ -2,12 +2,12 @@
   <img src="name.svg" width="800" height="100" alt="Palafóz Luz">
 </p>
 
-## Welcometo my GitHub! 
+## Welcome to my GitHub! 
 Technology ❤️ <br>
 Systems Developer👨🏻‍💻<br>
 Focus: honing my skills, simplifying and solving problems <br>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologys and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -19,7 +19,7 @@ Focus: honing my skills, simplifying and solving problems <br>
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" alt="Banner Personalizado" width="50%" />
 </div>
 
-## 📫 Como me encontrar
+## 📫 Contacts
 
 <p align="center">
   <a href="mailto:davipalafozluz@gmail.com">
